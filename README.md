@@ -7,7 +7,7 @@
 3. npm start to start the server
 4. run dump data queries from database table
 5. setup env file
-6. open index.html using live server in VS code
+
 
 ## Dependencies/Technology used
 1. Nodejs
